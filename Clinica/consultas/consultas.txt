@@ -1,0 +1,13 @@
+Paciente: Mateus
+Medico: Rafao
+Data: 14/12/2026
+Horario: 09:45
+Paciente: Bolinha
+Medico: Joao
+Data: 34/08/1999
+Horario: 99:99
+Paciente: mateus
+Medico: d
+Data: 1
+Horario: 3
+----------------------------------------------
