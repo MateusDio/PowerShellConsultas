@@ -1,5 +1,6 @@
 #!/bin/bash
-
+while true
+do
 echo "Digite um numero para continuar: "
 
 echo "1 - Agendar consulta"
@@ -19,7 +20,7 @@ case $opcao in
 ;;
 
 2)
-bash lista.sh
+cat Clinica/consultas/consultas.txt
 ;;
 
 3)
@@ -40,6 +41,7 @@ bash backup.sh
 
 7)
 echo "Saindo..."
+break
 ;;
 
 *)
@@ -47,3 +49,4 @@ echo "Tecla incorreta"
 ;;
 
 esac
+done
