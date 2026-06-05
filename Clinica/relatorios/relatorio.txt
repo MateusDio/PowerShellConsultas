@@ -1,3 +1,9 @@
+===== RELATORIO DA CLINICA =====
+
+Total de consultas: 4
+
+CONSULTAS CADASTRADAS:
+
 Medico: Rafao
 Data: 14/12/2026
 Horario: 09:45

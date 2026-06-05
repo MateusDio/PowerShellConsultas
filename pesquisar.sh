@@ -4,7 +4,7 @@ echo "Pesquisar consultas:"
 read -p "Digite o nome do paciente: " nome 
 
 if [ -f Clinica/consultas/consultas.txt ]; then
-    resultado=$(grep -i "$nome" Clinica/consultas/consultas.txt)
+    resultado=$(grep -i -A 3 "$nome" Clinica/consultas/consultas.txt)
 
 if [ -n "$resultado" ]; then
 echo "Consulta(s) encontrada(s):"
