@@ -31,8 +31,7 @@ then
     echo "=============================="
 
 else
-    echo "Arquivo de consultas não encontrado."
-fi
-
+    echo "Arquivo de consultas não encontrado.
 echo "------------------------------------"
 read -p "Pressione ENTER para voltar ao menu..."
+

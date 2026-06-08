@@ -1,28 +1,15 @@
-===== RELATORIO DA CLINICA =====
+===== RELATÓRIO DA CLÍNICA =====
 
-Total de consultas: 4
+Total de consultas: 1
 
 CONSULTAS CADASTRADAS:
 
-Medico: Rafao
-Data: 14/12/2026
-Horario: 09:45
-Paciente: Bolinha
-Medico: Joao
-Data: 34/08/1999
-Horario: 99:99
-Paciente: mateus
-Medico: d
-Data: 1
-Horario: 3
+Medico: Bolinha
+Data: 14/12/2009
+Horario: 19:27
 ----------------------------------------------
-Paciente: t
-Medico: g
-Data: 14/2/45
-Horario: 87:23
-----------------------------------------------
-Paciente: t
-Medico: r
-Data: 142
-Horario: f
+Paciente: Rafaela
+Medico: Lucas
+Data: 14/23/5678
+Horario: 18:45
 ----------------------------------------------
