@@ -1,15 +1,1 @@
-===== RELATÓRIO DA CLÍNICA =====
 
-Total de consultas: 1
-
-CONSULTAS CADASTRADAS:
-
-Medico: Bolinha
-Data: 14/12/2009
-Horario: 19:27
-----------------------------------------------
-Paciente: Rafaela
-Medico: Lucas
-Data: 14/23/5678
-Horario: 18:45
-----------------------------------------------
